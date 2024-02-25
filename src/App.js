@@ -23,6 +23,8 @@ function App() {
   return (
     <div className="w-1/2 mx-auto px-0.5 bg-violet-200 rounded-md mt-10 mb-20 ">
 
+      <h1> form bhar do bhai</h1>
+
       <form onSubmit={sumbitHandler}  className=" flex flex-col px-10"><br/>
 
         <label htmlFor="firstName" >firstName</label> 
